@@ -1,0 +1,1 @@
+Collecting scripts I found open source or wrote myself in one place so I have easy access.
